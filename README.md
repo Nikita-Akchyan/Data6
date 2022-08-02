@@ -6,7 +6,7 @@ Congratulations for making it here on your acid trip, you must have taken some s
 ## E
 # EEE!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It seems like you were somehow able to touch grass and survived, you have achieved a higher status.
 
 ```markdown
 Syntax highlighted code block
